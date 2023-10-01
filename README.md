@@ -1,4 +1,4 @@
-# Actividad 1 - Conceptos y aplicaciones de Inteligencia Artificial
+# Actividad 2 - Búsqueda y sistemas basados en reglas
 
 ## Description
 <p>
