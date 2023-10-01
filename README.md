@@ -2,11 +2,15 @@
 
 ## Description
 <p>
-  Este trabajo se realiza para tener las bases en la Inteligencia artificial, iniciamos con como importar librerías especiales de Python para el procesamiento y limpieza de la base de datos, trabajaremos con un conjunto de datos muy especial: el "Forbes 2022".
-
-Este conjunto de datos nos proporciona una ventana a la élite empresarial, Para llevar a cabo este trabajo, vamos a utilizar tres librerías fundamentales en el ecosistema de Python: NumPy, pandas y matplotlib.
-
-Nuestro objetivo es explorar este conjunto de datos.
+En la actividad 1, establecimos las bases de nuestro trabajo, importamos las bibliotecas
+esenciales de Python (NumPy, pandas y matplotlib) y exploramos el conjunto de datos
+"Forbes 2022".
+Ahora tendremos un enfoque más específico en el análisis de datos y la toma de decisiones
+basadas en reglas. Para lograrlo, además de las bibliotecas mencionadas anteriormente,
+también haremos uso de la siguiente biblioteca:
+seaborn: Introducimos la biblioteca Seaborn, que nos proporcionará herramientas
+adicionales de visualización de datos y nos ayudará a realizar análisis exploratorios más
+avanzados.
  </p> 
 
 ## Developers
